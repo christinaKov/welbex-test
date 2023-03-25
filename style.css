@@ -401,6 +401,7 @@ section {
 	.contacts-container.is--footer {
 		margin: 2.5rem 0 3.125rem 0;
 		justify-content: start;
+		gap: 3.125rem;
 	}
 
 	.contacts-container img {
